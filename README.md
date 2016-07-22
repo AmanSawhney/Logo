@@ -1,2 +1,3 @@
-# Logo
-# Logo
+# This repository is storage for my logo
+###Which looks like this...
+![Alt Text](Plain-Sawhney-Games-Logo.png)
